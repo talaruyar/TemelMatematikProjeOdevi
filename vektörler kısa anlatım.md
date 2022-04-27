@@ -1,6 +1,6 @@
+# Bu ödev  www.patika.dev yardımı ile hazırlanmıştır.
 
-
-# Vektör
+## Vektör
 
 Vektör sayısal büyüklüğü ve birimi yanında, skaler niceliklerden farklı olarak yönü de olan niceliktir. Hız, kuvvet, ivme ve ağırlık örnek birer vektörel niceliktir. Vektörler bir sayı (skaler) ile veya başka bir vektör ile çarpılabilir ve bölünebilir. Aynı zamanda yönü değiştirilmemek şartı ile ötelenebilirler. 
 
@@ -23,13 +23,13 @@ Vektörün bileşenleriyle gösteriminde ise genellikle sıralı n-li kullanıl�
 https://wikimedia.org/api/rest_v1/media/math/render/svg/7293935645568d35c66045c783472911f76c5767
 
 
-## Eşitlik
+### Eşitlik
 Ancak vektörlerden birinin her bileşeni karşılıklı olarak diğerininkine eşitse bu iki vektör eşittir.
 
-## Vektör toplamı
+### Vektör toplamı
 
 İki vektörün toplamı üçüncü bir vektöre eşittir. Vekötörler yönü ve büyüklüğü olan niceliklker olduğundan, "paralelkenar" ve "uç uca ekleme" şeklinde 2 farklı toplama metodu mevcuttur.
-## Skaler (sayıl) ile çarpma
+### Skaler (sayıl) ile çarpma
 
 Bir vektör uzayında, skaler ve vektörler arasında bir çarpma ve dağılma olması gerekir.
 - Sayı ile birleştirme 
@@ -41,7 +41,7 @@ Bir vektör uzayında, skaler ve vektörler arasında bir çarpma ve dağılma o
 
 Genel olarak vektörle skalerle çarpması, vektörün her bileşeninin skaler ile çarpılmasıdır.
 
-## Standart temel vektörler
+### Standart temel vektörler
 
 "i","j","k" temel birim vektörleri.
 Birim vektör, uzunluğu 1 birim olan vektörlere denir. Üç boyutlu kartezyen koordinat sisteminde x,y ve z eksenleri üzerinde yer alan üç tane temel birim vektör vardır.
