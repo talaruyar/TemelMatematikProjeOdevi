@@ -20,7 +20,7 @@ Gösterimi
 Bir vektör çok çeşitli şekillerde gösterimlenebilir. En yaygın gösterimler, üzerinde bir ok işareti ile olan ya da koyu renkli gösterimidir. 
 
 Vektörün bileşenleriyle gösteriminde ise genellikle sıralı n-li kullanılır.
-![ijk]https://wikimedia.org/api/rest_v1/media/math/render/svg/7293935645568d35c66045c783472911f76c5767
+![ijk](https://wikimedia.org/api/rest_v1/media/math/render/svg/7293935645568d35c66045c783472911f76c5767)
 
 
 ### Eşitlik
